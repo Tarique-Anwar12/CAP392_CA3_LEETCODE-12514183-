@@ -1,2 +1,0 @@
-# CAP392_CA3_LEETCODE-12514183-
-Leet Code Java Problem
